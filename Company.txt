@@ -1,2 +1,4 @@
 <company>Romashka</company>
 <city>Moskovia</city>
+<fax>5464ffgxdgbxcdb</fax>
+<fax2>456464654654665</fax2>
